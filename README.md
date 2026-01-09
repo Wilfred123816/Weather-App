@@ -92,15 +92,6 @@ cd weather-app
 open index.html
 # or
 start index.html
-Project Structure
-text
-weather-app/
-├── index.html          # Main HTML file
-├── style.css          # All CSS styles
-├── script.js          # JavaScript with API integration
-├── images/            # Weather icons and backgrounds
-├── README.md          # Documentation (this file)
-└── .gitignore         # Git ignore file
 
 Design Features
 Dynamic Backgrounds - Changes based on weather conditions
