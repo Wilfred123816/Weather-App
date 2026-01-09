@@ -4,7 +4,7 @@ A beautiful, responsive weather dashboard that provides real-time weather data, 
 https://images.unsplash.com/photo-1592210454359-9043f067919b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80
 
 Live Demo
-View Live Site: https://github.com/Wilfred123816/Weather-App
+View Live Site: https://wilfred123816.github.io/Weather-App/
 
 Features
 Real-time Weather Data - Current conditions, temperature, humidity, wind speed
@@ -83,7 +83,7 @@ const API_KEY = 'YOUR_API_KEY_HERE'; // Replace with your key
 3. Run Locally
 bash
 # Clone the repository
-git clone https://github.com/Wilfred123816/Weather-App
+git clone https://wilfred123816.github.io/Weather-App/
 
 # Navigate to project directory
 cd weather-app
@@ -101,16 +101,6 @@ weather-app/
 ├── images/            # Weather icons and backgrounds
 ├── README.md          # Documentation (this file)
 └── .gitignore         # Git ignore file
-API Endpoints Used
-Current Weather: api.openweathermap.org/data/2.5/weather
-
-5-Day Forecast: api.openweathermap.org/data/2.5/forecast
-
-Air Pollution: api.openweathermap.org/data/2.5/air_pollution
-
-Geocoding: api.openweathermap.org/geo/1.0/direct
-
-Reverse Geocoding: api.openweathermap.org/geo/1.0/reverse
 
 Design Features
 Dynamic Backgrounds - Changes based on weather conditions
@@ -154,38 +144,14 @@ Air quality data might not be available for all locations
 
 UV index is simulated (requires premium API for real data)
 
-Weather map requires manual activation due to iframe limitations
-
-Future Enhancements
-Weather alerts and notifications
-
-Historical weather data
-
-Multiple location tracking
-
-Weather widget creation
-
-Dark/light mode toggle
-
-Weather-related tips and recommendations
-
-Weather data export (PDF/CSV)
-
-Voice search functionality
-
-PWA (Progressive Web App) capabilities
+Weather map requires manual activation due to iframe limitation
 
 Contributing
 Contributions are welcome! Please follow these steps:
-
 Fork the repository
-
 Create a feature branch (git checkout -b feature/AmazingFeature)
-
 Commit your changes (git commit -m 'Add some AmazingFeature')
-
 Push to the branch (git push origin feature/AmazingFeature)
-
 Open a Pull Request
 
 License
@@ -218,7 +184,7 @@ Check the OpenWeatherMap FAQ
 
 Open an issue in this repository
 
-Contact via email: wilfredmonyenye@gmail.com
+Contact via email: mosimawilfred13@gmail.com
 
 API Usage Example
 javascript
@@ -229,20 +195,17 @@ const response = await fetch(
 const data = await response.json();
 Quick Start for Developers
 bash
-# 1. Clone and setup
+1. Clone and setup
 git clone https://github.com/Wilfred123816/Weather-App
 cd weather-app
+2. Get API key from OpenWeatherMap
+3. Update script.js with your API key
+4. Open index.html in broswer
+5. Optional: Use Live Server in VS Code
+   Install Liver Serve extension
+   Right-click index.html-"Open with Live Server"
 
-# 2. Get API key from OpenWeatherMap
-# 3. Update script.js with your API key
-# 4. Open index.html in browser
 
-# 5. Optional: Use Live Server in VS Code
-#    Install Live Server extension
-#    Right-click index.html → "Open with Live Server"
-Star History
-If you find this project useful, please give it a star!
-
-Made with love by Wilfred Monyenye
+Made wit
 
 Last Updated: January 2024
