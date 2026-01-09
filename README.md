@@ -46,6 +46,17 @@ Font Awesome - Icons
 
 Google Fonts - Typography
 
+Screenshots
+<img width="1358" height="660" alt="image" src="https://github.com/user-attachments/assets/f2608c96-72ae-492e-826c-61bc960a0268" />
+<img width="1356" height="678" alt="image" src="https://github.com/user-attachments/assets/4942684c-09eb-4ff7-9d00-95474665b479" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/dbccc62a-40c4-4053-ba7d-116b0f378a9e" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e3782a18-6252-4da4-b91c-d026ef3167ed" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9cf3c196-3d83-4637-a54e-8251c7a4cdc4" />
+
+
+
+
+
 Key Learnings
 API integration and handling asynchronous data
 
